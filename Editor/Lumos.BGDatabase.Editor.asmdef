@@ -1,0 +1,17 @@
+{
+    "name": "Lumos.BGDatabase.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:516a456569bf1c849883dabc043be0fc",
+        "GUID:53a1b0ad5e7209f409a897a2dace60f3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

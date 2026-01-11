@@ -1,0 +1,12 @@
+{
+  "name": "com.lumos.bgdatabase",
+  "version": "1.0.0",
+  "displayName": "Lumos BGDatabase",
+  "description": "description",
+  "unity": "2021.2",
+  "author": {
+    "name": "Lumos",
+    "email": "lumos5934@gmail.com",
+    "url": ""
+  }
+}
