@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Lumos
+namespace LumosLib.BGDatabase
 {
     public interface IBGManager
     {

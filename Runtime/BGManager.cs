@@ -5,7 +5,7 @@ using BansheeGz.BGDatabase;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 
-namespace Lumos
+namespace LumosLib.BGDatabase
 {
     public class BGManager : MonoBehaviour, IPreInitializable, IBGManager
     {

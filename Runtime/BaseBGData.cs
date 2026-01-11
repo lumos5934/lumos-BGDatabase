@@ -1,6 +1,6 @@
 ﻿using BansheeGz.BGDatabase;
 
-namespace Lumos
+namespace LumosLib.BGDatabase
 {
     public abstract class BaseBGData
     {

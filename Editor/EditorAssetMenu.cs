@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace Lumos.Firebase
+namespace LumosLib.BGDatabase
 {
     public static class EditorAssetMenu
     {
@@ -10,7 +10,7 @@ namespace Lumos.Firebase
         [MenuItem("Assets/Create/Prefab/Manager/BGDatabase", false, int.MinValue)]
         public static void CreateBGManager()
         {
-            Lumos.EditorAssetMenu.CreatePrefab<BGManager>();
+            LumosLib.EditorAssetMenu.CreatePrefab<BGManager>();
         }
         
         #endregion
