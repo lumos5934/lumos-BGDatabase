@@ -2,6 +2,7 @@
     "name": "Lumos.BGDatabase.Runtime",
     "rootNamespace": "",
     "references": [
+        "BansheeGz.BGDatabase",
         "GUID:f51ebe6a0ceec4240a699833d6309b23",
         "GUID:b401b30f8b9e5474fb4b30afc6c476a7"
     ],
