@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace LumosLib.BGDatabase
+namespace LumosLib.BGDatabase.Editor
 {
     public static class EditorAssetMenu
     {
@@ -10,7 +10,7 @@ namespace LumosLib.BGDatabase
         [MenuItem("Assets/Create/Prefab/Manager/BGDatabase", false, int.MinValue)]
         public static void CreateBGManager()
         {
-            LumosLib.EditorAssetMenu.CreatePrefab<BGManager>();
+            LumosLib.Editor.EditorAssetMenu.CreatePrefab<BGManager>();
         }
         
         #endregion
