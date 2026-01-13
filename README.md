@@ -11,4 +11,4 @@ BGDatabase 에셋에 대한 활용 편의 패키지
 <br>
 
 ## ℹ️기능
-* [ Database ](https://www.notion.so/Database-2df3966a742c8045a87eedd2461c0cbc?source=copy_link)
+* [ BGManager ](https://www.notion.so/Database-2df3966a742c8045a87eedd2461c0cbc?source=copy_link)
